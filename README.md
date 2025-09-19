@@ -14,10 +14,10 @@
 <ul>● 코드 구현 방식의 원리를 아는 것을 좋아합니다</ul>
 <br>
 
-<div>Tech Stack</div>
+<h3>Tech Stack</h3>
 
 
-<div>projects</div>
+<h3>projects</h3>
 <div>개인프로젝트 - 음식 게시판</div>
 <div>매일매일 음식 고민하는 사람들과의 소통</div>
 <br>
