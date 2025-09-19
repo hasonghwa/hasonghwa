@@ -12,12 +12,12 @@
 <br>
 
 
-<h3>👁Tech Stack</h3>
+<h3>👁 Tech Stack</h3>
 <div>Vue, JavaScript, CSS, Java Oracle, Git, GitHub, VSCode</div>
 
 
 <br>
-<h3>💻projects</h3>
+<h3>💻 projects</h3>
 <div>
   <개인프로젝트 - 자기소개>
 </div>
