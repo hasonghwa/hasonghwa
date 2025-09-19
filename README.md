@@ -1,8 +1,15 @@
+<style>
+.container{
+  text-align: center;
+}
+</style>
+<div id="container">
 <div>안녕하세요</div>
 <p>하송화 입니다!</p>
+</div>
+  <br>
 <br>
-<br>
-<br>
+
 
 
 <h3>About Me</h3>
