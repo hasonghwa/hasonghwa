@@ -1,5 +1,5 @@
 <style>
-.container{
+#container{
   text-align: center;
 }
 </style>
