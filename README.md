@@ -19,7 +19,7 @@
 ---
 
 
-<h3>👁 Tech Stack</h3>
+<h3>📚 Tech Stack</h3>
 <div>Vue, JavaScript, CSS, Java Oracle, Git, GitHub, VSCode</div>
 
 
