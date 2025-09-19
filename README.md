@@ -1,7 +1,6 @@
 
 
-
-
+  
 <div id="container">
 <p>안녕하세요 하송화 입니다!</p>
 
@@ -16,6 +15,7 @@
 <ul>● 자신이 직접 코드를 써 보면서 발견한 오류를 분석하고 고쳐서 자신의 것으로 만듭니다.</ul>
 <ul>● 코드 구현 방식의 원리를 아는 것을 좋아합니다</ul>
 <br>
+
 
 <h3>Tech Stack</h3>
 <div>Vue, JavaScript, CSS, Java Oracle, Git, GitHub, VSCode</div>
