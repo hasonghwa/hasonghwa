@@ -40,6 +40,19 @@
   <ul>● 랜덤뽑기 방식을 통하여 음식을 제시해 줄 수 있습니다.</ul>
   <ul>● 자유롭게 수정/삭제 (이)가 가능합니다.</ul>
 
+<hr>
+
+<h4> <팀 프로젝트 - I'm ready : 한국 여행코스 추천 플랫폼></h4>
+
+>링크
+<https://github.com/jun-000224/Spring_TeamProject.git>
+
+<hr>
+
+<h4> <개인 프로젝트 - 옷 선택 어플></h4>
+
+>링크
+<https://github.com/hasonghwa/reactProject.git>
 
 
 
