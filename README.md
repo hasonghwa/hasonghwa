@@ -30,10 +30,15 @@
 
 
  <h4> <개인프로젝트 - 음식 게시판></h4>
-<ul>
+
+   
+   <ul>
   <ol>커뮤니티 게시판 구현</ol>
   <ol>랜덤 추첨 기능 추가</ol>
 </ul>
+
+
+
 
 >링크
   
@@ -41,9 +46,15 @@
 <hr>
 
 <h4> <팀 프로젝트 - I'm ready : 한국 여행코스 추천 플랫폼></h4>
-<ul>
+
+  
+  
+  <ul>
   <ol>게시판 전체 구현</ol>
 </ul>
+
+
+
 >링크
    
 <https://github.com/jun-000224/Spring_TeamProject.git>
@@ -51,12 +62,20 @@
 <hr>
 
 <h4> <개인 프로젝트 - 옷 선택 어플></h4>
-<ul>
+
+  
+  
+  <ul>
   <ol>로그인/회원가입 페이지 구현</ol>
   <ol>친구 피드 구현</ol>
   <ol>맞춤형 옷 입기 기능 구현</ol>
   <ol>나의 옷장 불러오기 구현</ol>
 </ul>
+
+
+
+
+
 >링크
    
 <https://github.com/hasonghwa/reactProject.git>
