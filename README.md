@@ -81,6 +81,9 @@
 
 🔗 <https://github.com/hasonghwa/reactProject.git>
 
+<hr>
+<h3> <⛅ 오늘 어때 - 실시간 날씨와 대중교통 정보를 기반으로, 상황에 맞는 행동과 필수 물품을 알려주는 스마트 알림 앱> </h3>
 
-
+<ul>로그인/ 회원가입 페이지 구현</ul>
+🔗 [https://github.com/hyeokjun9035/flutterproject_team2?tab=readme-ov-file#-%EC%98%A4%EB%8A%98-%EC%96%B4%EB%95%8C](https://github.com/hyeokjun9035/flutterproject_team2/tree/develop?tab=readme-ov-file)
 
