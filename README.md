@@ -20,7 +20,22 @@
 
 
 <h2>📚 Tech Stack</h2>
-<div>Vue, JavaScript, CSS, Java Oracle, Git, GitHub, VSCode</div>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ajax-E34F26?style=for-the-badge&logo=ajax&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataBase-3366CC?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-F06A6A?style=for-the-badge&logo=aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
 
 
 ---
