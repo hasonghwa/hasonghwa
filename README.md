@@ -45,48 +45,41 @@
 
 
  <h3> <🍽 개인프로젝트 - 음식 게시판></h3>
+<ul>커뮤니티 게시판 구현</ul>
+<ul>랜덤 추첨 기능 추가</ul>
 
-<ol>
-<li> 커뮤니티 게시판 구현</li>
-<li> 랜덤 추첨 기능 추가</li>
-</ol>
 
 <br>
 
 
->링크
-  
-<https://github.com/hasonghwa/------.git>
+
+🔗 <https://github.com/hasonghwa/------.git>
 <hr>
 
 <h3> <🚴‍ 팀 프로젝트 - I'm ready : 한국 여행코스 추천 플랫폼></h3>
 
-<ol>
-<li>
+
+<ul>
  게시판기능 전체 구현(등록, 삭제, 편집, 신고하기)등
-</li>
-</ol>
+</ul>
 
 
->링크
-   
-<https://github.com/jun-000224/Spring_TeamProject.git>
+
+🔗 <https://github.com/jun-000224/Spring_TeamProject.git>
 
 <hr>
 
 <h3> <👚 개인 프로젝트 - 옷 선택 어플></h3>
   
-<ol>
-<li>로그인/회원가입 페이지 구현</li>
-<li>친구 피드 구현</li>
-<li>맞춤형 옷 입기 기능 구현</li>
-<li>나의 옷장 불러오기 구현</li>
-</ol>
+
+<ul>로그인/회원가입 페이지 구현</ul>
+<ul>친구 피드 구현</ul>
+<ul>맞춤형 옷 입기 기능 구현</ul>
+<ul>나의 옷장 불러오기 구현</ul>
+
   
 
->링크
-   
-<https://github.com/hasonghwa/reactProject.git>
+🔗 <https://github.com/hasonghwa/reactProject.git>
 
 
 
