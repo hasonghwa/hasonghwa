@@ -48,6 +48,9 @@
    
 >매일매일 음식 고민하는 사람들과의 소통
 
+<h3> <사용툴> </h3>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
    
 ## 📄 주요 기능
@@ -68,6 +71,9 @@
   
 >고객은 원하는 테마, 기간 , 예산, 지역 을 자유롭게 선택하여 자유롭게 코스를 짤수있습니다.
 
+<h3> <사용툴> </h3>
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 
 ## 📄 주요 기능
@@ -95,6 +101,10 @@
 
 >자신이 입었던 옷을 등록해서 시간을 절약하기
 
+<h3> <사용툴> </h3>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
   ## 📄 주요 기능
 
 - **회원가입/로그인**: 사용자 정보 입력 회원가입/로그인
@@ -110,6 +120,10 @@
 <h3> <⛅ 팀 프로젝트: 오늘 어때 - 날씨 기반 플랫폼 > </h3>
 
 >실시간 날씨와 대중교통 정보를 기반으로, 상황에 맞는 행동과 필수 물품을 알려주는 스마트 알림 앱
+
+<h3> <사용툴> </h3>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
  ## 📄 주요 기능
 
