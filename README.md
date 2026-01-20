@@ -50,7 +50,7 @@
 
 <h3> <사용툴> </h3>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+> html, oracle 
 
    
 ## 📄 주요 기능
@@ -73,7 +73,7 @@
 
 <h3> <사용툴> </h3>
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+> spring, oracle
 
 
 ## 📄 주요 기능
@@ -103,7 +103,7 @@
 
 <h3> <사용툴> </h3>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+> react, Mysql
 
   ## 📄 주요 기능
 
@@ -123,7 +123,7 @@
 
 <h3> <사용툴> </h3>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+>flutter, firebase
 
  ## 📄 주요 기능
 
